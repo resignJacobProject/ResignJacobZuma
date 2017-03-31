@@ -1,14 +1,13 @@
 # ResignJacobZuma
 
-
-http://res.cloudinary.com/resignjacob/image/upload/v1490971342/resign-Jacob_Zuma__2009_World_Economic_Forum_on_Africa-10_ln0kjm.jpg
+![](http://res.cloudinary.com/resignjacob/image/upload/v1490971342/resign-Jacob_Zuma__2009_World_Economic_Forum_on_Africa-10_ln0kjm.jpg)
 
 **Resign, Jacob Zuma!**
 
 A set of high-quality, open-source images asking President Jacob Zuma to resign.
 
 ## Original Image
-https://upload.wikimedia.org/wikipedia/commons/5/52/Jacob_Zuma%2C_2009_World_Economic_Forum_on_Africa-10.jpg
+![](https://upload.wikimedia.org/wikipedia/commons/5/52/Jacob_Zuma%2C_2009_World_Economic_Forum_on_Africa-10.jpg)
 
 ### Web Page
 [Jacob Zuma at the 2009 World Economic Forum on Africa](https://commons.wikimedia.org/wiki/File:Jacob_Zuma,_2009_World_Economic_Forum_on_Africa-10.jpg) at Wikimedia.
